@@ -17,7 +17,7 @@
 - Estudiante de Ciencia de la Computación en Universidad Nacional de San Agustín (2017 - Actualidad).
 
 ## 🛠️ Habilidades y Herramientas
-- **Lenguajes**: [Python]  [JavaScript]  [C++]  [Php]
+- **Lenguajes**: Python, JavaScript, C++ , Php.
 - **Tecnologías**: HTML, CSS, Bootstrap, Git, SQL, MySql, .NET.
 - **Herramientas**: Visual Studio Code, Jupyter Notebook, Visual Studio.
 
